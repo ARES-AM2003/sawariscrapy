@@ -1,0 +1,15 @@
+Variant Mapping Report
+======================
+Generated: Mon Dec  1 06:49:56 PM +0545 2025
+
+Models Processed: 5
+Success: 5
+Failed: 0
+Total Variants: 69
+Mapped: 61
+Mapping Rate: 88.4%
+
+Brands:
+  - Honda: 1/1 models
+  - Hyundai: 3/3 models
+  - toyota: 1/1 models

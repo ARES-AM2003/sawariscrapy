@@ -1,0 +1,26 @@
+# Scrapy project configuration and logs
+
+geckodriver.log
+*.xlsx
+*.json
+*.png
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE project files
+.ropeproject/
+.idea/
+
+# Output files and cache
+/Output/*
+.scrapy/
+
+
+# WebDriver manager files (these are downloaded and shouldn't be versioned)
+webdriver-manager/
+
+venv/
+.env
