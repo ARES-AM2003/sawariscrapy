@@ -233,3 +233,4 @@ This will start the scraping process, and the results will be saved in the forma
 Happy scraping! 🎉 If you have any questions or suggestions, feel free to [open an issue](https://github.com/ARES-AM2003/Scrapy-selenium-kit/issues).
 # scrapy
 # sawari-Scrape
+# sawariscrapy
