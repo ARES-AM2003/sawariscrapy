@@ -10,12 +10,12 @@ import time
 class FaqSpider(scrapy.Spider):
     name = "faq"
     allowed_domains = ["cardekho.com"]
-    start_urls = ["https://www.cardekho.com/tata/punch"]
+    start_urls = ["https://www.cardekho.com/mahindra/xuv700"]
 
     # Extract brand and model from start_urls
 
-    brand_name = 'Tata'
-    model_name = 'punch'
+    brand_name = 'Mahindra'
+    model_name = 'xuv700'
     custom_settings = {
         'ITEM_PIPELINES': {
             'sawari-expert.pipelines.FaqInfoJsonPipeline': 300,
@@ -66,7 +66,7 @@ class FaqSpider(scrapy.Spider):
             self.logger.info(f"Extracted brand: {extracted_brand}, model: {extracted_model}")
             model_name = extracted_model
         except Exception as e:
-            model_name = 'punch'
+            model_name = ""
             self.logger.error(f"[ERROR] Could not extract model name: {e}")
             driver.save_screenshot("error_model_name.png")
 

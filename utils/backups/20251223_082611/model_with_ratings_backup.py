@@ -10,13 +10,13 @@ from ..items import ModelInfoItem, RatingInfoItem
 class ModelWithRatingsSpider(scrapy.Spider):
     name = "model-rating"
     allowed_domains = ["autocarindia.com"]
-    start_urls = ["https://www.autocarindia.com/cars/tata/punch"]
+    start_urls = ["https://www.autocarindia.com/cars/mahindra/xuv700"]
 
     # Extract brand and model from start_urls
 
 
-    brand_name = 'Tata'
-    model_name = 'punch'
+    brand_name = 'Mahendra'
+    model_name = 'xuv700'
     custom_settings = {
         'ITEM_PIPELINES': {
             'sawari-expert.pipelines.ModelInfoJsonPipeline': 300,
@@ -92,10 +92,10 @@ class ModelWithRatingsSpider(scrapy.Spider):
             car_name_full = car_name_elem.text.strip()
             parts = car_name_full.split()
             brand_name = parts[0] if len(parts) > 0 else ""
-            model_name = 'punch'.join(parts[1:]) if len(parts) > 1 else ""
+            model_name = " ".join(parts[1:]) if len(parts) > 1 else ""
             self.logger.info(f"Found car: {brand_name} {model_name}")
         except Exception as e:
-            brand_name = model_name = 'punch'
+            brand_name = model_name = ""
             self.logger.error(f"[ERROR] Could not extract car name info: {e}")
 
         # Extract model description

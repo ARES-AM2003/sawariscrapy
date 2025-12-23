@@ -6732,3 +6732,1773 @@ Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
+URL 1/12 - Model: PUNCH, Variant: CREATIVE PLUS S AMT
+Price: 9.10 Lakh
+URL 1/11 - Model: PUNCH, Variant: ADVENTURE PLUS AMT
+Price: 7.43 Lakh
+URL 1/12 - Model: PUNCH, Variant: CREATIVE PLUS CAMO
+Price: 8.28 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO AMT
+Price: 8.85 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS AMT
+Price: 8.25 Lakh
+URL 2/11 - Model: PUNCH, Variant: ADVENTURE AMT
+Price: 7.11 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO AMT
+Price: 8.85 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS AMT
+Seating Capacity: 5
+Price: 8.25 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/11 - Model: PUNCH, Variant: ADVENTURE AMT
+Price: 7.11 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 4/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CAMO CNG
+Price: 8.85 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 4/12 - Model: PUNCH, Variant: CREATIVE PLUS
+Price: 8.14 Lakh
+URL 4/11 - Model: PUNCH, Variant: ADVENTURE S
+Price: 7.06 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+URL 5/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CNG
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 8.71 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 5/11 - Model: PUNCH, Variant: PURE CNG
+Price: 6.68 Lakh
+URL 5/12 - Model: PUNCH, Variant: ADVENTURE PLUS S AMT
+Price: 8.07 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+URL 6/12 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 6/11 - Model: PUNCH, Variant: ADVENTURE
+URL 6/12 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+Price: 6.56 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 7/12 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 7/11 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 7/12 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 8/12 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 8/11 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+URL 8/12 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: CNG, Petrol Mileage ARAI: 
+URL 9/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 9/11 - Model: PUNCH, Variant: PURE
+Price: 5.50 Lakh
+URL 9/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 10/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 10/11 - Model: PUNCH, Variant: PURE
+Price: 5.50 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 11/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 10/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 11/11 - Model: PUNCH, Variant: PURE
+Price: 5.50 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 12/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 11/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 12/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/12 - Model: PUNCH, Variant: CREATIVE PLUS S AMT
+Price: 9.10 Lakh
+URL 1/12 - Model: PUNCH, Variant: CREATIVE PLUS CAMO
+Price: 8.28 Lakh
+URL 1/11 - Model: PUNCH, Variant: ADVENTURE PLUS AMT
+Price: 7.43 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO AMT
+Price: 8.85 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS AMT
+Price: 8.25 Lakh
+URL 2/11 - Model: PUNCH, Variant: ADVENTURE AMT
+Price: 7.11 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO AMT
+Price: 8.85 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/11 - Model: PUNCH, Variant: ADVENTURE AMT
+URL 3/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS AMT
+Price: 7.11 Lakh
+Price: 8.25 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+URL 4/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CAMO CNG
+Price: 8.85 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 4/11 - Model: PUNCH, Variant: ADVENTURE S
+Price: 7.06 Lakh
+URL 4/12 - Model: PUNCH, Variant: CREATIVE PLUS
+Price: 8.14 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 5/12 - Model: PUNCH, Variant: ADVENTURE PLUS S AMT
+Price: 8.07 Lakh
+URL 5/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CNG
+URL 5/11 - Model: PUNCH, Variant: PURE CNG
+Price: 8.71 Lakh
+Price: 6.68 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 6/12 - Model: PUNCH, Variant: ADVENTURE S CNG
+URL 6/12 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+URL 6/11 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+Price: 7.93 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 7/12 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 7/12 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 7/11 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 8/12 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+URL 8/12 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 8/11 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 9/11 - Model: PUNCH, Variant: PURE
+Price: 5.50 Lakh
+URL 9/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+URL 9/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 10/11 - Model: PUNCH, Variant: PURE
+Price: 5.50 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 10/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 10/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 11/11 - Model: PUNCH, Variant: PURE
+Price: 5.50 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 11/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 11/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 12/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 12/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/12 - Model: PUNCH, Variant: CREATIVE PLUS S AMT
+Price: 9.10 Lakh
+URL 1/12 - Model: PUNCH, Variant: CREATIVE PLUS CAMO
+Price: 8.28 Lakh
+URL 1/11 - Model: PUNCH, Variant: ADVENTURE PLUS AMT
+Price: 7.43 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+URL 2/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO AMT
+Price: 8.85 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS AMT
+Price: 8.25 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+URL 2/11 - Model: PUNCH, Variant: ADVENTURE AMT
+Price: 7.11 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO AMT
+Price: 8.85 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+URL 3/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS AMT
+Price: 8.25 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/11 - Model: PUNCH, Variant: ADVENTURE AMT
+Price: 7.11 Lakh
+Seating Capacity: 5
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 4/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CAMO CNG
+Price: 8.85 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+URL 4/12 - Model: PUNCH, Variant: CREATIVE PLUS
+Price: 8.14 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+URL 4/11 - Model: PUNCH, Variant: ADVENTURE PLUS
+Price: 6.88 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 5/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CNG
+Price: 8.71 Lakh
+URL 5/12 - Model: PUNCH, Variant: ADVENTURE PLUS S AMT
+Price: 8.07 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 5/11 - Model: PUNCH, Variant: PURE CNG
+Price: 6.68 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 6/12 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+URL 6/12 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 6/11 - Model: PUNCH, Variant: PURE CNG
+Price: 6.68 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 7/12 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 7/12 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: CNG, Petrol Mileage ARAI: 
+URL 7/11 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 8/12 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 8/12 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 8/11 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 9/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+URL 9/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+URL 9/11 - Model: PUNCH, Variant: PURE
+Price: 7.70 Lakh
+Price: 5.50 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+URL 10/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 8.55 Lakh
+Seating Capacity: 5
+URL 10/11 - Model: PUNCH, Variant: PURE
+Price: 5.50 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 10/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 11/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 11/11 - Model: PUNCH, Variant: PURE
+Seating Capacity: 5
+Price: 5.50 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 11/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+URL 12/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 12/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/12 - Model: PUNCH, Variant: CREATIVE PLUS S AMT
+Price: 9.10 Lakh
+URL 1/11 - Model: PUNCH, Variant: ADVENTURE PLUS AMT
+Price: 7.43 Lakh
+URL 1/12 - Model: PUNCH, Variant: CREATIVE PLUS CAMO
+Price: 8.28 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO AMT
+Price: 8.85 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+URL 2/11 - Model: PUNCH, Variant: ADVENTURE AMT
+Price: 7.11 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS AMT
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Price: 8.25 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO AMT
+Price: 8.85 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/11 - Model: PUNCH, Variant: ADVENTURE AMT
+Price: 7.11 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 4/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CAMO CNG
+Price: 8.85 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+URL 4/11 - Model: PUNCH, Variant: ADVENTURE S
+Price: 7.06 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS AMT
+Price: 8.25 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+URL 5/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CNG
+Price: 8.71 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 4/12 - Model: PUNCH, Variant: CREATIVE PLUS
+Price: 8.14 Lakh
+URL 5/11 - Model: PUNCH, Variant: PURE CNG
+Price: 6.68 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 6/12 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 5/12 - Model: PUNCH, Variant: ADVENTURE PLUS S AMT
+Price: 8.07 Lakh
+URL 6/11 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 7/12 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 7/11 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+URL 6/12 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 8/12 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 8/11 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 7/12 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+URL 9/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 8/12 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+URL 9/11 - Model: PUNCH, Variant: PURE
+Price: 5.50 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 10/11 - Model: PUNCH, Variant: PURE
+URL 10/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Price: 5.50 Lakh
+URL 9/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 11/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 11/11 - Model: PUNCH, Variant: PURE
+Price: 5.50 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 12/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 10/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 11/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 12/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/12 - Model: PUNCH, Variant: CREATIVE PLUS S AMT
+Price: 9.10 Lakh
+URL 1/11 - Model: PUNCH, Variant: ADVENTURE PLUS AMT
+Price: 7.43 Lakh
+URL 1/12 - Model: PUNCH, Variant: CREATIVE PLUS CAMO
+Price: 8.28 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+URL 2/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO AMT
+Price: 8.85 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 2/11 - Model: PUNCH, Variant: ADVENTURE AMT
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Price: 7.11 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+URL 2/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS AMT
+Price: 8.25 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO AMT
+Price: 8.85 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS AMT
+Price: 8.25 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 3/11 - Model: PUNCH, Variant: ADVENTURE AMT
+Price: 7.11 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 4/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS AMT
+Price: 8.25 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 4/11 - Model: PUNCH, Variant: ADVENTURE S
+Price: 7.06 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 5/12 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+URL 4/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CAMO CNG
+Price: 8.85 Lakh
+URL 5/11 - Model: PUNCH, Variant: PURE CNG
+Price: 6.68 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 6/12 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: CNG, Petrol Mileage ARAI: 
+URL 6/11 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+URL 5/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CNG
+Price: 8.71 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 7/12 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+URL 6/12 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 7/11 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+URL 8/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 8/11 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 7/12 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 9/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 8/12 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+URL 9/11 - Model: PUNCH, Variant: PURE
+Price: 5.50 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 10/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 11/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 10/11 - Model: PUNCH, Variant: PURE
+Price: 5.50 Lakh
+URL 9/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Price: 8.55 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 12/12 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 11/11 - Model: PUNCH, Variant: PURE
+Price: 5.50 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+URL 10/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 11/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 12/12 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO CNG
+Price: 9.30 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS S CAMO AMT
+Price: 9.24 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CNG
+Price: 9.15 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO CNG
+Price: 9.30 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS S AMT
+Price: 9.10 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS S CAMO AMT
+Price: 9.24 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO AMT
+Price: 8.85 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CNG
+Price: 9.15 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CAMO CNG
+Price: 8.85 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS S AMT
+Price: 9.10 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS CAMO AMT
+Price: 8.83 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO AMT
+Price: 8.85 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CNG
+Price: 8.71 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CAMO CNG
+Price: 8.85 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS CAMO AMT
+Price: 8.83 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS S CAMO
+Price: 8.69 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CNG
+Price: 8.71 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S AMT
+Price: 8.69 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS S CAMO
+Price: 8.69 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS S CNG
+Price: 8.39 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S AMT
+Price: 8.69 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CAMO AMT
+Price: 8.39 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO
+Price: 8.30 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS S CNG
+Price: 8.39 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS CAMO
+Price: 8.28 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CAMO AMT
+Price: 8.39 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS AMT
+Price: 8.25 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO
+Price: 8.30 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS
+Price: 8.14 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS CAMO
+Price: 8.28 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S
+Price: 8.14 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS AMT
+Price: 8.25 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS S AMT
+Price: 8.07 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS
+Price: 8.14 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S
+Price: 8.14 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS S AMT
+Price: 8.07 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CAMO
+Price: 7.84 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS CNG
+Price: 7.75 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE S AMT
+Price: 7.61 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS S
+Price: 7.52 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE CNG
+Price: 7.43 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS AMT
+Price: 7.43 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE AMT
+Price: 7.11 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE S
+Price: 7.06 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS
+Price: 6.88 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: PURE CNG
+Price: 6.68 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: PURE OPT
+Price: 6 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: PURE
+Price: 5.50 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO CNG
+Price: 9.30 Lakh
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS CAMO AMT
+Price: 8.83 Lakh
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Price: 8.14 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE S AMT
+Price: 7.61 Lakh
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS S CNG
+Price: 8.39 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 6.88 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS S CAMO AMT
+Price: 9.24 Lakh
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CNG
+Price: 8.71 Lakh
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS S AMT
+Price: 8.07 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS S
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 7.52 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CAMO AMT
+Price: 8.39 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+URL 1/1 - Model: PUNCH, Variant: PURE CNG
+Price: 6.68 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Price: 8.69 Lakh
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CNG
+Price: 9.15 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: CNG, Petrol Mileage ARAI: 
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE CNG
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 7.43 Lakh
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO
+Price: 8.30 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS S CAMO
+Price: 8.69 Lakh
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS S AMT
+Price: 9.10 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CAMO
+Price: 7.84 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS AMT
+Price: 7.43 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS CAMO
+Price: 8.28 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+URL 1/1 - Model: PUNCH, Variant: PURE OPT
+Seating Capacity: 5
+Price: 6 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S AMT
+Price: 8.69 Lakh
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO AMT
+Price: 8.85 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS CNG
+Price: 7.75 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE AMT
+Price: 7.11 Lakh
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS AMT
+Price: 8.25 Lakh
+URL 1/1 - Model: PUNCH, Variant: PURE
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Price: 5.50 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO CNG
+Price: 9.30 Lakh
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS S CNG
+Price: 8.39 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S
+Price: 8.14 Lakh
+Seating Capacity: 5
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS
+Price: 6.88 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS CAMO AMT
+Price: 8.83 Lakh
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE S AMT
+Price: 7.61 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS S CAMO AMT
+Price: 9.24 Lakh
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CAMO AMT
+Price: 8.39 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+URL 1/1 - Model: PUNCH, Variant: PURE CNG
+Price: 6.68 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS S AMT
+Price: 8.07 Lakh
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS S
+Price: 7.52 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CNG
+Seating Capacity: 5
+Price: 8.71 Lakh
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CNG
+Price: 9.15 Lakh
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO
+Price: 8.30 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE
+Price: 6.56 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE S CNG
+Price: 7.93 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE CNG
+Price: 7.43 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS AMT
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 8.69 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS S AMT
+Price: 9.10 Lakh
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS CAMO
+Price: 8.28 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+URL 1/1 - Model: PUNCH, Variant: PURE OPT
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 6 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CAMO
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 7.84 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS AMT
+Price: 7.43 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS S CAMO
+Price: 8.69 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S CAMO AMT
+Price: 8.85 Lakh
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS AMT
+Price: 8.25 Lakh
+URL 1/1 - Model: PUNCH, Variant: PURE
+Price: 5.50 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE PLUS CNG
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Price: 7.75 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: CNG, Petrol Mileage ARAI: 
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE AMT
+Price: 7.11 Lakh
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS S AMT
+Price: 8.69 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 18.8 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS CAMO CNG
+Price: 8.85 Lakh
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS
+Price: 8.14 Lakh
+Fuel Type: CNG, Petrol Mileage ARAI: 
+URL 1/1 - Model: PUNCH, Variant: ACCOMPLISHED PLUS
+Price: 7.70 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+URL 1/1 - Model: PUNCH, Variant: ADVENTURE S
+Price: 7.06 Lakh
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+URL 1/1 - Model: PUNCH, Variant: CREATIVE PLUS S
+Price: 8.55 Lakh
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------
+Fuel Type: Petrol, Petrol Mileage ARAI: 20.09 kmpl
+Seating Capacity: 5
+Second Item: Fuel & Performance, Fourth Item: Dimensions & Capacity
+--------------------------------------------------------------------------------

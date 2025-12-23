@@ -19,12 +19,16 @@ ADDONS = {}
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = False  # Set to False to allow scraping if the website blocks by robots.txt
+ROBOTSTXT_OBEY = (
+    False  # Set to False to allow scraping if the website blocks by robots.txt
+)
 
 # Concurrency and throttling settings
-CONCURRENT_REQUESTS = 16  # Default is 16 requests, feel free to adjust as per the server load
-CONCURRENT_REQUESTS_PER_DOMAIN = 4  # Now safe with multiple tabs! 4 parallel requests per domain
-DOWNLOAD_DELAY = 0.5  # Reduced delay since we're using tabs efficiently
+CONCURRENT_REQUESTS = (
+    16  # Default is 16 requests, feel free to adjust as per the server load
+)
+CONCURRENT_REQUESTS_PER_DOMAIN = 1  # Single tab per browser for maximum reliability
+DOWNLOAD_DELAY = 1  # Delay between requests for stability
 
 # Disabling cookies by default for cleaner scraping, unless the website needs cookies.
 COOKIES_ENABLED = False  # Set to True if the website requires cookies for functionality
@@ -43,9 +47,9 @@ TELNETCONSOLE_ENABLED = False  # Disable Telnet console to avoid unnecessary ove
 #     'sawariexpert.middlewares.SeleniumMiddleware': 800,
 # }
 
-# ✅ Selenium Multi-Tab Settings (Each Browser Instance Uses Multiple Tabs)
-SELENIUM_MAX_TABS = 4  # Number of tabs per browser instance
-SELENIUM_BROWSER = 'firefox'  # 'firefox' or 'chrome'
+# ✅ Selenium Single-Tab Settings (One Tab Per Browser for Reliability)
+SELENIUM_MAX_TABS = 1  # Single tab per browser instance for maximum stability
+SELENIUM_BROWSER = "firefox"  # 'firefox' or 'chrome'
 
 # Configure item pipelines
 # ITEM_PIPELINES = {
@@ -66,32 +70,38 @@ SELENIUM_BROWSER = 'firefox'  # 'firefox' or 'chrome'
 AUTOTHROTTLE_ENABLED = True  # AutoThrottle is useful to avoid hammering the server
 AUTOTHROTTLE_START_DELAY = 5  # Initial delay when starting requests
 AUTOTHROTTLE_MAX_DELAY = 60  # Maximum delay in case of high latencies
-AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0  # Adjust requests based on the server response time
+AUTOTHROTTLE_TARGET_CONCURRENCY = (
+    1.0  # Adjust requests based on the server response time
+)
 AUTOTHROTTLE_DEBUG = False  # Disable debug output for performance
 
 # Enable and configure HTTP caching (disabled by default)
-HTTPCACHE_ENABLED = True  # HTTP Cache saves the responses to avoid re-scraping during development
+HTTPCACHE_ENABLED = (
+    True  # HTTP Cache saves the responses to avoid re-scraping during development
+)
 HTTPCACHE_EXPIRATION_SECS = 86400  # Cache expires in 24 hours
 HTTPCACHE_DIR = "httpcache"  # Directory to store cache
 HTTPCACHE_IGNORE_HTTP_CODES = []  # Define which HTTP codes to cache (useful for specific status codes)
-HTTPCACHE_STORAGE = "scrapy.extensions.httpcache.FilesystemCacheStorage"  # Use filesystem cache storage
+HTTPCACHE_STORAGE = (
+    "scrapy.extensions.httpcache.FilesystemCacheStorage"  # Use filesystem cache storage
+)
 
 # Set settings whose default value is deprecated to a future-proof value
 FEED_EXPORT_ENCODING = "utf-8"  # Ensure the output file is saved in UTF-8 encoding (for international characters)
 
 # **Selenium Settings:**
 DOWNLOADER_MIDDLEWARES = {
-    'sawari-expert.middlewares.SeleniumMiddleware': 543,  # Single browser with multiple tabs
+    "sawari-expert.middlewares.SeleniumMiddleware": 543,  # Single browser with multiple tabs
     # Other middlewares can be added here
 }
 
-# 💡 Performance Notes with Multi-Tab Setup:
-# - SELENIUM_MAX_TABS=4: Each browser has 4 tabs (~550MB per browser)
-# - CONCURRENT_REQUESTS_PER_DOMAIN=4: Matches tab count for optimal performance
-# - Single browser with 4 tabs: ~550MB (vs 1800MB for 4 separate browsers)
-# - 3 browsers × 4 tabs each = 12 concurrent requests (~1.65GB total)
-# - Your 8GB RAM can comfortably handle 3-4 browsers with 4 tabs each
-# - Adjust run_variants_parallel.py to set NUM_BROWSERS and TABS_PER_BROWSER
+# 💡 Performance Notes with Single-Tab Setup:
+# - SELENIUM_MAX_TABS=1: Each browser has 1 tab (~450MB per browser)
+# - CONCURRENT_REQUESTS_PER_DOMAIN=1: Single tab for maximum reliability
+# - Single browser with 1 tab: ~450MB (more stable than multi-tab)
+# - 3 browsers × 1 tab each = 3 concurrent requests (~1.35GB total)
+# - Single tab per browser prevents tab interference and race conditions
+# - Adjust run_variants_parallel.py to set NUM_BROWSERS (recommend 3-5)
 
 
 # Selenium settings for Firefox
@@ -128,5 +138,3 @@ FEEDS = {
 # 2. **AutoThrottle:** Ideal for controlling request rates dynamically based on website load.
 # 3. **Caching:** Enables caching to avoid redundant requests during development.
 # 4. **Cookies:** If the website uses cookies for session tracking, consider enabling cookies.
-
-
